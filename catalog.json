@@ -1,0 +1,142 @@
+[
+    {
+        "look" : "crepe.jpg",
+        "name" : "Crepe",
+        "price" : 400
+
+    },
+
+    {
+        "look" : "croissant.jpg",
+        "name" : "Croissant",
+        "price" : 105
+
+    },
+
+    {
+        "look" : "eclaire.jpg",
+        "name" : "Eclair",
+        "price" : 90
+
+    },
+
+    {
+        "look" : "financier.jpg",
+        "name" : "Financier",
+        "price" : 140
+
+    },
+
+    {
+        "look" : "fraisier.jpg",
+        "name" : "Fraisier",
+        "price" : 3500
+
+    },
+
+    {
+        "look" : "gateau de rois.jpg",
+        "name" : "Gateau De Rois",
+        "price" : 2322.21
+
+    },
+
+    {
+        "look" : "macaron.jpg",
+        "name" : "Macaron",
+        "price" : 153.22
+
+    },
+
+    {
+        "look" : "madeleine.jpg",
+        "name" : "Madeleine",
+        "price" : 491.54
+
+    },
+
+    {
+        "look" : "millefeuille.jpg",
+        "name" : "Millefeuille",
+        "price" : 416.76
+
+    },
+
+    {
+        "look" : "mont blanc.jpg",
+        "name" : "Mont Blanc ",
+        "price" : 404.51
+
+    },
+
+    {
+        "look" : "mousse au chocolat.jpg",
+        "name" : "Mousse au Chocolat",
+        "price" : 530
+
+    },
+
+    {
+        "look" : "pain au chocolat.jpg",
+        "name" : "Pain au Chocolat",
+        "price" : 86
+
+    },
+
+    {
+        "look" : "palmier.jpg",
+        "name" : "Palmier",
+        "price" : 2145.11
+
+    },
+
+    {
+        "look" : "petitfour.jpg",
+        "name" : "Petit Four",
+        "price" : 3677.33
+
+    },
+
+    {
+        "look" : "pot de creme.jpg",
+        "name" : "Pot de Creme",
+        "price" : 3826.88
+
+    },
+
+    {
+        "look" : "profiterole.jpg",
+        "name" : "Profiteroles",
+        "price" : 595.11
+
+    },
+
+    {
+        "look" : "religieuse.jpg",
+        "name" : "Religieuse",
+        "price" : 484.18
+
+    },
+
+    {
+        "look" : "saint honore.jpg",
+        "name" : "Saint Honore",
+        "price" : 2451.55
+
+    },
+
+    {
+        "look" : "tarte citron.jpg",
+        "name" : "Tarte Citron",
+        "price" : 2574.13
+
+    },
+
+    {
+        "look" : "tarte tatin.jpg",
+        "name" : "Tarte Tatin",
+        "price" : 1348.35
+
+    }
+  
+]
