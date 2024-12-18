@@ -37,35 +37,35 @@
     {
         "look" : "gateau de rois.jpg",
         "name" : "Gateau De Rois",
-        "price" : 2322.21
+        "price" : 2320
 
     },
 
     {
         "look" : "macaron.jpg",
         "name" : "Macaron",
-        "price" : 153.22
+        "price" : 155
 
     },
 
     {
         "look" : "madeleine.jpg",
         "name" : "Madeleine",
-        "price" : 491.54
+        "price" : 490
 
     },
 
     {
         "look" : "millefeuille.jpg",
         "name" : "Millefeuille",
-        "price" : 416.76
+        "price" : 410
 
     },
 
     {
         "look" : "mont blanc.jpg",
         "name" : "Mont Blanc ",
-        "price" : 404.51
+        "price" : 400
 
     },
 
@@ -79,63 +79,63 @@
     {
         "look" : "pain au chocolat.jpg",
         "name" : "Pain au Chocolat",
-        "price" : 86
+        "price" : 85
 
     },
 
     {
         "look" : "palmier.jpg",
         "name" : "Palmier",
-        "price" : 2145.11
+        "price" : 2145
 
     },
 
     {
         "look" : "petitfour.jpg",
         "name" : "Petit Four",
-        "price" : 3677.33
+        "price" : 3670
 
     },
 
     {
         "look" : "pot de creme.jpg",
         "name" : "Pot de Creme",
-        "price" : 3826.88
+        "price" : 3825
 
     },
 
     {
         "look" : "profiterole.jpg",
         "name" : "Profiteroles",
-        "price" : 595.11
+        "price" : 595
 
     },
 
     {
         "look" : "religieuse.jpg",
         "name" : "Religieuse",
-        "price" : 484.18
+        "price" : 485
 
     },
 
     {
         "look" : "saint honore.jpg",
         "name" : "Saint Honore",
-        "price" : 2451.55
+        "price" : 2450
 
     },
 
     {
         "look" : "tarte citron.jpg",
         "name" : "Tarte Citron",
-        "price" : 2574.13
+        "price" : 2575
 
     },
 
     {
         "look" : "tarte tatin.jpg",
         "name" : "Tarte Tatin",
-        "price" : 1348.35
+        "price" : 1340
 
     }
   
